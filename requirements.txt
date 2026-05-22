@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+numpy==1.26.4
+pandas==2.2.2
+sentence-transformers
+faiss-cpu==1.7.4
+transformers
+torch
+accelerate
+rank-bm25
+python-dotenv
+huggingface_hub
