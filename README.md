@@ -1,3 +1,13 @@
+title: Nigeria State Intelligence Assistant (NSIA)
+emoji: 🤖
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_file: app.py
+pinned: false
+
+
+
 # Nigeria State Intelligence Assistant (NSIA)
 
 A local Retrieval-Augmented Generation (RAG) system that answers factual questions about Nigerian states, Local Government Areas (LGAs), and universities — powered by a hybrid retriever and a locally hosted Mistral 7B language model via Ollama.
